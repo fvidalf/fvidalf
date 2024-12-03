@@ -3,6 +3,10 @@
 
 Hello!👋 I'm a Software Engineering student at UC Chile, minoring in Data Science. Currently exploring the world of Software Development and Machine Learning 👀
 
+## 🚧 Stuff I'm currently working on 🚧
+
+To be announced...
+
 ## I consider myself pretty good at these 🤓
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -20,19 +24,17 @@ Hello!👋 I'm a Software Engineering student at UC Chile, minoring in Data Scie
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## 🚧 Stuff I'm currently working on 🚧
-
-To be announced...
-
 ## ⬇️ Big numbers in pretty colors about my time here ⬇️
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fvidalf&theme=algolia)](https://git.io/streak-stats)
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fvidalf&show_icons=true&theme=algolia&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvidalf&langs_count=10&exclude_repo=EX-DDS&size_weight=0&count_weight=1&theme=algolia&layout=compact&card_width=200" />
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fvidalf&theme=algolia" />
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=fvidalf&theme=algolia&rank=-C,-?&column=2&row=2" />
