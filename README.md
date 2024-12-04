@@ -1,7 +1,7 @@
 
 ![banner](https://github.com/user-attachments/assets/b0e384f3-4f69-4108-9ac4-3be3d3915852)
 
-Hello!👋 I'm a Software Engineering student at UC Chile, minoring in ඞ Data Science. Currently exploring the world of Software Development and Machine Learning 👀
+Hello!👋 I'm a Software Engineering student at UC Chile, minoring in Data Science. Currently exploring the world of Software Development and Machine Learning 👀
 
 ## 🚧 Stuff I'm currently working on 🚧
 
