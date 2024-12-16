@@ -5,7 +5,9 @@ Hello!👋 I'm a Software Engineering student at UC Chile, minoring in Data Scie
 
 ## 🚧 Stuff I'm currently working on 🚧
 
-To be announced...
+[![Playlist Manager Back](https://github-readme-stats.vercel.app/api/pin/?username=fvidalf&repo=Playlist-Manager-Back&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Playlist Manager Front](https://github-readme-stats.vercel.app/api/pin/?username=fvidalf&repo=Playlist-Manager-Front&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## I consider myself pretty good at these 🤓
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
