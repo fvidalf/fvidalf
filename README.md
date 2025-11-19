@@ -5,8 +5,8 @@ Hello!👋 I'm a Software Engineering from UC Chile, who minored in Data Science
 
 ## 🚧 Stuff I'm currently working on 🚧
 
-[![Debate Agents Platform — API & Simulation Engine](https://github-readme-stats.vercel.app/api/pin/?username=fvidalf&repo=ipre-debate-agentes-back&theme=algolia)](https://github.com/fvidalf/ipre-debate-agentes-back)
-[![Debate Agents Platform - Web Application](https://github-readme-stats.vercel.app/api/pin/?username=fvidalf&repo=ipre-debate-agentes-front&theme=algolia)](https://github.com/fvidalf/ipre-debate-agentes-front)
+[![Debate Agents Platform — API & Simulation Engine](https://github-readme-stats.vercel.app/api/pin/?username=fvidalf&repo=debate-agents-platform-back&theme=algolia)](https://github.com/fvidalf/debate-agents-platform-back)
+[![Debate Agents Platform - Web Application](https://github-readme-stats.vercel.app/api/pin/?username=fvidalf&repo=debate-agents-platform-front&theme=algolia)](https://github.com/fvidalf/debate-agents-platform-front)
 [![Playlist Manager Back](https://github-readme-stats.vercel.app/api/pin/?username=fvidalf&repo=Playlist-Manager-Back&theme=algolia)](https://github.com/fvidalf/Playlist-Manager-Back)
 [![Playlist Manager Front](https://github-readme-stats.vercel.app/api/pin/?username=fvidalf&repo=Playlist-Manager-Front&theme=algolia)](https://github.com/fvidalf/Playlist-Manager-Front)
 
